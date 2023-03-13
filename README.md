@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daize Njounkeng
-- 👀 I’m interested in Software Engineering and Data Science
-- 🌱 I’m currently learning Python, C++ and Kotlin
+- 👀 I’m interested in Software Engineering
+- 🌱 I currently code in Python, Kotlin and Swift majorly
 - 💞️ Computer Science major
 - 📫 How to reach me 
           email:njounkengdaizem@berea.edu
